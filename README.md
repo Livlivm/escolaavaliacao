@@ -28,7 +28,7 @@ O sistema permite:
 
 * Node.js
 * Express.js
-* Prisma ORM
+* Prisma
 
 ## Banco de Dados
 
@@ -56,39 +56,6 @@ O sistema permite:
 * HTML5
 * CSS3
 * JavaScript
-
----
-
-#  Estrutura do Projeto
-
-```text
-frontend/
-│
-├── index.html
-├── login.html
-├── dashboard.html
-├── atividades.html
-│
-├── css/
-│   └── style.css
-│
-└── js/
-    ├── login.js
-    ├── dashboard.js
-    └── atividades.js
-
-backend/
-│
-├── src/
-│   ├── controllers/
-│   ├── routes/
-│   └── data/
-│
-├── prisma/
-│   └── schema.prisma
-│
-└── server.js
-```
 
 ---
 
